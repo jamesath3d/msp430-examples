@@ -36,3 +36,4 @@ Makefile.env
 29-capTouch/Library/CTS_Layer.c
 30-melodyBuzzer/30-melodyBuzzer.c
 31-adc/simplex_2_msp430fr2433_5.c
+32_adc/voltage_monitor_with_a_timestamp_adc.c
